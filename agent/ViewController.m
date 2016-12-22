@@ -69,7 +69,7 @@ static NSString* kSender = @"daniele";
     
     self.apiAI = [[ApiAI alloc] init];
     id <AIConfiguration> configuration = [[AIDefaultConfiguration alloc] init];
-    configuration.clientAccessToken = @"18380b3b6ace458f9b9d08383cf19d66";
+    configuration.clientAccessToken = @"2c0878d8ec794b4790bf3038aa2c92f4";
     
     self.apiAI.configuration = configuration;
 }
